@@ -24,3 +24,4 @@ build:
         repository: dockerhub
         file: python_fighter-0.0.1.$OPC_USERNAME.zip
         subscription_type: Hourly
+
